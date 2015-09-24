@@ -3,7 +3,7 @@
  *
  * PPTP control function prototypes.
  *
- * $Id: pptpctrl.h,v 1.1 2002/06/21 08:52:01 fenix_nl Exp $
+ * $Id: pptpctrl.h,v 1.1.1.1 2002/06/21 08:52:01 fenix_nl Exp $
  */
 
 #ifndef _PPTPD_PPTPCTRL_H

@@ -4,7 +4,7 @@
  * Change process title
  * From code by C. S. Ananian
  *
- * $Id: inststr.h,v 1.1 2002/06/21 08:52:00 fenix_nl Exp $
+ * $Id: inststr.h,v 1.1.1.1 2002/06/21 08:52:00 fenix_nl Exp $
  */
 
 #ifndef _PPTPD_INSTSTR_H

@@ -51,9 +51,9 @@
 
 /* Location of binaries */
 
-#define PPTP_CTRL_BIN			SBINDIR "/pptpctrl"
-#define PPTPD_BIN			SBINDIR "/pptpd"
-#define BCRELAY_BIN			SBINDIR "/bcrelay"
+#define PPTP_CTRL_BIN			 "/sbin/pptpctrl"
+#define PPTPD_BIN			 "/sbin/pptpd"
+#define BCRELAY_BIN			 "/sbin/bcrelay"
 
 /* Parameters permitted in the config file */
 
